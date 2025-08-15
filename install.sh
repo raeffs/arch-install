@@ -13,3 +13,5 @@ catch_errors() {
 trap catch_errors ERR
 
 source $ARCH_INSTALL/terminal.sh
+
+source $ARCH_INSTALL/dotfiles.sh
