@@ -14,4 +14,5 @@ sudo pacman -S --noconfirm --needed \
   fastfetch \
   btop \
   bash-completion \
-  alacritty
+  alacritty \
+  starship
